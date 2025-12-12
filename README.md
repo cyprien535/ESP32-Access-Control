@@ -39,5 +39,7 @@ Système de contrôle d’accès avec ESP32 et MicroPython. Utilise un **clavier
 - Interfacer LCD, clavier, servo et LEDs
 - Créer un projet de contrôle d’accès simple et fonctionnel
 
+## Schéma de câblage
+![Schéma de câblage](CABLAGE.png)
 ## Licence
 MIT License
